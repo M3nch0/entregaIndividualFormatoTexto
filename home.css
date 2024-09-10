@@ -1,0 +1,38 @@
+.Imperio li {
+    background-color: red;
+}
+
+.Rebeldes li{
+    background-color: blue;
+}
+
+#Darth {
+    font-size: 30px;
+}
+
+#Luke {
+    font-style: italic;
+}
+
+.soldados_imperio {
+    border: dotted black;
+    letter-spacing: 5px;
+}
+
+.soldados_rebeldes {
+    border: dotted black;
+    letter-spacing: 5px;
+}
+
+.Rebeldes .apoyo {
+    text-align: center;
+}
+
+
+.Imperio .apoyo {
+    text-align: center;
+}
+
+.nave {
+    text-transform: uppercase;
+}
